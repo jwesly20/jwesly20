@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Welcome to my hub
  
 - 👨‍💻 **#SelfTaught** Developer.
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+- 👨‍💻 Mostly working on ❤️ReactJs ❤️Express Js 🔥MongoDb!
 - Loves ✈️ and 👨‍💻.
 - Proud 🇮🇳.
 - ![](https://komarev.com/ghpvc/?username=sahuadarsh0) <!-- Profile View Counter-->
